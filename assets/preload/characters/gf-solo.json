@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				2,
+				-4,
 				-13
 			],
 			"loop": false,
@@ -82,10 +82,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/GF_assets_Solo",
 	"position": [
-		0,
-		0
+		280,
+		60
 	],
 	"healthicon": "gf",
 	"flip_x": false,

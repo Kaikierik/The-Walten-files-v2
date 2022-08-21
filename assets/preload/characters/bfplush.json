@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				-25,
+				5,
 				89
 			],
 			"loop": false,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				12,
-				-6
+				100,
+				102
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,19 +24,19 @@
 		},
 		{
 			"offsets": [
-				-10,
-				-50
+				60,
+				29
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BF NOTE DOWN0"
+			"name": "BF Down Note0"
 		},
 		{
 			"offsets": [
-				-29,
-				27
+				26,
+				125
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-38,
-				-7
+				42,
+				86
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				12,
-				24
+				100,
+				102
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,19 +68,19 @@
 		},
 		{
 			"offsets": [
-				-11,
-				-19
+				60,
+				29
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "BF NOTE DOWN MISS"
+			"name": "BF Down Note MISS"
 		},
 		{
 			"offsets": [
-				-29,
-				27
+				26,
+				125
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-30,
-				21
+				42,
+				86
 			],
 			"loop": false,
 			"fps": 24,
@@ -134,8 +134,19 @@
 		},
 		{
 			"offsets": [
-				-11,
-				-17
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				37,
+				5
 			],
 			"loop": true,
 			"fps": 24,
@@ -145,34 +156,23 @@
 		},
 		{
 			"offsets": [
-				7,
-				-1
+				37,
+				69
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "deathConfirm",
 			"indices": [],
 			"name": "BF Dead confirm"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-111,
-				43
-			],
-			"anim": "firstDeath",
-			"fps": 24,
-			"name": "Bf dies",
-			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BFPlush_FNF_assets",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "BF_WALTEN",
+	"healthicon": "bf_PLUSH",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,

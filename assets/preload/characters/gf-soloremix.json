@@ -1,14 +1,13 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				2,
-				-13
-			],
 			"loop": false,
-			"anim": "sad",
+			"offsets": [
+				-48,
+				-25
+			],
 			"fps": 24,
-			"name": "gf sad",
+			"anim": "sad",
 			"indices": [
 				0,
 				1,
@@ -23,17 +22,17 @@
 				10,
 				11,
 				12
-			]
+			],
+			"name": "gf sad"
 		},
 		{
-			"offsets": [
-				0,
-				-9
-			],
 			"loop": false,
-			"anim": "danceLeft",
+			"offsets": [
+				-46,
+				-32
+			],
 			"fps": 24,
-			"name": "GF Dancing Beat",
+			"anim": "danceLeft",
 			"indices": [
 				30,
 				0,
@@ -51,17 +50,17 @@
 				12,
 				13,
 				14
-			]
+			],
+			"name": "GF Dancing Beat"
 		},
 		{
-			"offsets": [
-				0,
-				-9
-			],
 			"loop": false,
-			"anim": "danceRight",
+			"offsets": [
+				-46,
+				-32
+			],
 			"fps": 24,
-			"name": "GF Dancing Beat",
+			"anim": "danceRight",
 			"indices": [
 				15,
 				16,
@@ -78,14 +77,15 @@
 				27,
 				28,
 				29
-			]
+			],
+			"name": "GF Dancing Beat"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/GF_Assets_Remix_Assets_Solo",
 	"position": [
-		0,
-		0
+		280,
+		60
 	],
 	"healthicon": "gf",
 	"flip_x": false,

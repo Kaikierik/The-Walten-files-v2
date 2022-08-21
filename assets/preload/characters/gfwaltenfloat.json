@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-25,
-				89
+				255,
+				-211
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,19 +13,19 @@
 		},
 		{
 			"offsets": [
-				12,
-				-6
+				280,
+				-208
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
+			"anim": "singRIGHT",
 			"indices": [],
 			"name": "BF NOTE LEFT0"
 		},
 		{
 			"offsets": [
-				-10,
-				-50
+				253,
+				-207
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-29,
-				27
+				251,
+				-191
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,19 +46,19 @@
 		},
 		{
 			"offsets": [
-				-38,
-				-7
+				260,
+				-199
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "singLEFT",
 			"indices": [],
 			"name": "BF NOTE RIGHT0"
 		},
 		{
 			"offsets": [
-				12,
-				24
+				30,
+				72
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-11,
-				-19
+				10,
+				5
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-29,
-				27
+				-4,
+				75
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-30,
-				21
+				-38,
+				96
 			],
 			"loop": false,
 			"fps": 24,
@@ -134,8 +134,19 @@
 		},
 		{
 			"offsets": [
-				-11,
-				-17
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				37,
+				5
 			],
 			"loop": true,
 			"fps": 24,
@@ -145,43 +156,32 @@
 		},
 		{
 			"offsets": [
-				7,
-				-1
+				37,
+				69
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "deathConfirm",
 			"indices": [],
 			"name": "BF Dead confirm"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-111,
-				43
-			],
-			"anim": "firstDeath",
-			"fps": 24,
-			"name": "Bf dies",
-			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/GFFloat_Assets",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "BF_WALTEN",
-	"flip_x": true,
+	"healthicon": "GF_WALTEN",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		165,
+		0,
+		77
 	],
 	"camera_position": [
-		0,
-		0
+		-220,
+		230
 	],
 	"sing_duration": 4,
 	"scale": 1

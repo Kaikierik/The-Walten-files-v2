@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				290,
+				540
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bon Idle Dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				373,
+				557
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bon Note Right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				303,
+				559
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bon NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				288,
+				644
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bon Up note0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				290,
+				540
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bon Down Note0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				293,
+				579
+			],
+			"loop": false,
+			"anim": "blood",
+			"fps": 24,
+			"name": "Bon Blood",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BonAnimatronic_FNF_Dark",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "bonanim",
+	"flip_x": true,
+	"healthbar_colors": [
+		70,
+		119,
+		192
+	],
+	"camera_position": [
+		-60,
+		-590
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

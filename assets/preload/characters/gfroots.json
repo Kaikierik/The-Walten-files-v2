@@ -1,14 +1,13 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				2,
-				-13
-			],
 			"loop": false,
-			"anim": "sad",
+			"offsets": [
+				580,
+				81
+			],
 			"fps": 24,
-			"name": "gf sad",
+			"anim": "sad",
 			"indices": [
 				0,
 				1,
@@ -23,17 +22,17 @@
 				10,
 				11,
 				12
-			]
+			],
+			"name": "gf sad"
 		},
 		{
-			"offsets": [
-				0,
-				-9
-			],
 			"loop": false,
-			"anim": "danceLeft",
+			"offsets": [
+				580,
+				81
+			],
 			"fps": 24,
-			"name": "GF Dancing Beat",
+			"anim": "danceLeft",
 			"indices": [
 				30,
 				0,
@@ -51,17 +50,17 @@
 				12,
 				13,
 				14
-			]
+			],
+			"name": "GF Dancing Beat"
 		},
 		{
-			"offsets": [
-				0,
-				-9
-			],
 			"loop": false,
-			"anim": "danceRight",
+			"offsets": [
+				580,
+				81
+			],
 			"fps": 24,
-			"name": "GF Dancing Beat",
+			"anim": "danceRight",
 			"indices": [
 				15,
 				16,
@@ -78,13 +77,36 @@
 				27,
 				28,
 				29
-			]
+			],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"offsets": [
+				580,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "stand",
+			"loop": false,
+			"name": "Bouncing Food Stand"
+		},
+		{
+			"offsets": [
+				580,
+				742
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "land",
+			"loop": false,
+			"name": "Bouncing Food Land"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/GF_Roots_Assets",
 	"position": [
-		0,
+		-10,
 		0
 	],
 	"healthicon": "gf",

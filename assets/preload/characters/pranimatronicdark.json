@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				195,
+				680
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bon Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				696
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bon Note Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				301,
+				570
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bon NOTE LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				258,
+				696
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bon Up note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				549
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bon Down Note0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PumpkinAnimatronic_FNF_assets_Dark",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pranim",
+	"flip_x": true,
+	"healthbar_colors": [
+		252,
+		252,
+		0
+	],
+	"camera_position": [
+		-60,
+		-710
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

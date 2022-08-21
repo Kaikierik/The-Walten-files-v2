@@ -3,7 +3,7 @@
 		{
 			"offsets": [
 				2,
-				-13
+				-25
 			],
 			"loop": false,
 			"anim": "sad",
@@ -28,7 +28,7 @@
 		{
 			"offsets": [
 				0,
-				-9
+				-32
 			],
 			"loop": false,
 			"anim": "danceLeft",
@@ -56,7 +56,7 @@
 		{
 			"offsets": [
 				0,
-				-9
+				-32
 			],
 			"loop": false,
 			"anim": "danceRight",
@@ -82,7 +82,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/GF_Assets_Remix_Assets_Dark",
 	"position": [
 		0,
 		0
