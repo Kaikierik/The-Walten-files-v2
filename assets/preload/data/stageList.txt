@@ -1,9 +1,6 @@
-stage
 spooky
-philly
-limo
-mall
-mallEvil
-school
-schoolEvil
-tank
+promostage
+k9
+mysterioushouse
+mhdark
+black
